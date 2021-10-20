@@ -1,7 +1,7 @@
 use serde::Deserialize;
 
 #[derive(Debug, Deserialize)]
-struct Coin {
+pub struct Coin {
     id: usize,
     name: String,
     value: f32,
