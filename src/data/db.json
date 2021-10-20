@@ -70,19 +70,5 @@
             "id": 1,
             "name": "VISA"
         }
-    ],
-    "PaymentMethods": [
-        {
-            "id": 1,
-            "name": "Credit Card"
-        },
-        {
-            "id": 2,
-            "name": "Coins"
-        },
-        {
-            "id": 3,
-            "name": "Bills"
-        }
     ]
 }
